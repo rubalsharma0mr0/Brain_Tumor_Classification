@@ -26,3 +26,5 @@ Learning Objectives
 8.	Create Train, Validation and Test Sets using Image Data Generator in Keras.
 9.	Train an Efficient Net Model in Keras to perform Image Classification.
 10.	Learn to use the trained model to make predictions on new set of data.
+
+Special thanks to Mr. Ashish Arya (Project Mentor) from Coursera for mentoring me complete this project. 
