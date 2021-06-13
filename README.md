@@ -9,6 +9,10 @@ In this project, I made an efficient net model and train it on a Brain MRI datas
 3.	Pituitary Tumour and 
 4.	No Tumour. 
 
+<div>
+  <img src="https://lh3.googleusercontent.com/proxy/wBkpQIkCsDY3QsJeAS8JfvFwx1o4zAoKAET0_htiY5VkmCusdGODS61cdCNR9xgT3-i6mj7OjawZBY0JQ2_yTveIqDiGEnrSEj8">
+</div>
+
 The objective of this project is to create an image classification model that can predict Brain MRI scans that belong to one of the four classes with reasonably high accuracy. 
 
 Skills used in this project: 
