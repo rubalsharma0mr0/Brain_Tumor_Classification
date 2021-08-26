@@ -1,4 +1,4 @@
-# Brain_Tumor_Classification
+# Brain_Tumour_Classification
 <div>
   <img src="https://cdn-prod.medicalnewstoday.com/content/images/articles/321/321809/illustration-of-brain-tumor.jpg">
 </div>
